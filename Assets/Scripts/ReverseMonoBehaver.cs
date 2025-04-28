@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ReverseMonoBehaver : MonoBehaviour
 {
-    private float minX = -10.6f;
+    private float minX = -8.37f;
     private float maxX = -0.5f;
     private float minY = -4.5f;
     private float maxY = 4.5f;

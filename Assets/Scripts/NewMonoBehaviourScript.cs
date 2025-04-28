@@ -4,7 +4,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 {
     // キャラクターが移動できる範囲の最小値と最大値
     private float minX = 0.5f;
-    private float maxX = 10.6f;
+    private float maxX = 8.37f;
     private float minY = -4.5f;
     private float maxY = 4.5f;
 
